@@ -1,6 +1,6 @@
 ![Github Banner](assets/banner_github.png)
 
-### 💫 Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">:
+### 💫 Hi there <img src="assets/hello.gif" width="28px" alt="hi">:
 I'm Ittyhad, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content promissing Learner. I Spend most of time coding outstanding projects.
 
 ### 🌐 Connect with me!
