@@ -103,7 +103,7 @@ I'm Currently Learning Web Development with PHP, and Python-Django.<br>Also I'm 
 
 #### Business
 
-:email: &emsp;ittyhadulislam.com
+:email: &emsp;ittyhadulislam@gamil.com
 <br >
 :email: &emsp;az.walker30822@gmail.com
 <br >
