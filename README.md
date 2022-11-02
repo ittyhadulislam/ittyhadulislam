@@ -1,6 +1,7 @@
-# 💫 About Me:
-I'm Currently Learning Web Development with PHP, and Python-Django.<br>Also I'm Learning Machine Learning, Deep learning, Data Science
+![Github Banner](assets/banner_github.png)
 
+### 💫 Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">:
+I'm Ittyhad, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content promissing Learner. I Spend most of time coding outstanding projects.
 
 ### 🌐 Connect with me!
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/syedittyhadulislam) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/azmain_walker#3172) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/syedittyhadulislam.azmain/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/walker_30822/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-ittyhadul-islam-8b78651b1/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ittyhadulislam) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/ittyhadul) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14095324) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ittyhadulislam) 
@@ -109,9 +110,6 @@ I'm Currently Learning Web Development with PHP, and Python-Django.<br>Also I'm 
 <br >
 :email: &emsp;ami.azmain@gmail.com
 
-
-
-
 #### Profile Visits
 [![](https://visitcount.itsvg.in/api?id=ittyhadulislam&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -125,11 +123,8 @@ I'm Currently Learning Web Development with PHP, and Python-Django.<br>Also I'm 
 
 I love to do research and gaining knowledge, I want to help others with technology, I love Technology, AI and Robot!
 
-<!--
-#### What is Learn with Sumit?
-
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
--->
+#### Adout Me?
+I'm a Promissing learner of Computer Programming. I love code and I spend all the day in coding. Now I study on JS and It's libraries, PHP, Python and Django, Machine Learning and AI.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ittyhadulislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
