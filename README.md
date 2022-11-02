@@ -93,7 +93,7 @@ I'm Ittyhad, a Full Stack Web Application Developer from <img src="assets/bangla
   </tbody>
 </table>
 
-### 📺 &emsp;YouTube Channels I follow
+### 📺&emsp;YouTube Channels I follow
 
 <!-- YOUTUBE:START -->
 - [For Web Development - Owner(Sumit Saha) - Learn With Summit](https://www.youtube.com/c/LearnwithSumit)
