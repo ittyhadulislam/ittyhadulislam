@@ -133,8 +133,5 @@ I love to do research and gaining knowledge, I want to help others with technolo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ittyhadulislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ittyhadulislam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ittyhadulislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 </details>
