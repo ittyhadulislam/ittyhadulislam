@@ -59,6 +59,11 @@ I'm Ittyhad, a Full Stack Web Application Developer from <img src="assets/bangla
       <td>Developed by core PHP and My SQL</td>
     </tr>
     <tr>
+      <td>E-shop-info</td>
+      <td>It was given by <a href="https://debonairgroupbd.com/" target="_blank">Debonair Group Ltd.</a> While I'm in Internship</td>
+      <td>Developed by core PHP and My SQL</td>
+    </tr>
+    <tr>
       <td>Car Price Prediction</td>
       <td>It's my first Macine Learning Project</td>
       <td>Python, Numpy and SK-learn</td>
