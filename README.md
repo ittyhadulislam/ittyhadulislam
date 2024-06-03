@@ -88,7 +88,13 @@ I'm Ittyhad, a Full Stack Web Application Developer from <img src="assets/bangla
       <td>National Institute of Engineering and Technology</td>
       <td>Diploma</td>
       <td>2022</td>
-      <td>running</td>
+      <td>3.80</td>
+    </tr>
+    <tr>
+      <td>Southeast University</td>
+      <td>BSc In Computer Science and Engineering</td>
+      <td>2027</td>
+      <td>Running</td>
     </tr>
   </tbody>
 </table>
